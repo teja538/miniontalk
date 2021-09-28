@@ -2,4 +2,32 @@ body
 {
     max-width: 500px;
     margin: 0px auto;
+    background-color: #F5D349;
+    
+}
+
+#txt-input 
+{
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #EDB81A;
+}
+
+#txt-output
+{
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #EDB81A;
+}
+
+#btn-translate
+{
+    font-size: 1.15rem;
+    padding: 10px 15px;
+    background-color:white;
+    color: #EDB81A;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #EDB81A;
+    margin-left: 28%;
 }
